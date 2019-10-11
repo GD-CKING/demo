@@ -1,0 +1,8 @@
+apache:
+  rocketmq:
+    namesrvAddr: 47.105.176.129:9876
+    producer:
+      producerGroup: Producer
+    consumer:
+      PushConsumer: PushConsumer
+
