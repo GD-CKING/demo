@@ -1,1 +1,1 @@
-​		具体内容讲解请查看
+​		具体讲解内容请查看[Spring Cloud Stream入门](https://gd-cking.github.io/CKING.github.io/2019/10/29/Spring-Cloud-Stream%E5%85%A5%E9%97%A8/)这篇文章，谢谢！
